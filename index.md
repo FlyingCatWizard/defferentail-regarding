@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/FlyingCatWizard/defferentail-regarding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+    <head>
+	     <title>有關微分的網站</title>
+	 	 <style type="text/css">
+	 	 	.h1_class{
+	 	 		color:red;
+	 	 	}
+	 	 </style>
+    </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    	
+    	<hr>
+  
+        <div class="container">
+        	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+        	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-### Markdown
+        	<style type="text/css">p{ color:rgb(70,52,31,80);} body{font-family:italic;} body{ background-color:blue }</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <article><section>
 
-```markdown
-Syntax highlighted code block
+        <div></div>    
+            <p><label for="2">輸入一個常數:<input type="text" name="2" id="2"></label></p>
+            <p style="color:blue;">微分後的結果為</p><select><option>0</option> </select>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlyingCatWizard/defferentail-regarding/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        	        </section></article>
+        <footer>一個有關微分的網站 made by X一2 05 WWWizard</footer>
